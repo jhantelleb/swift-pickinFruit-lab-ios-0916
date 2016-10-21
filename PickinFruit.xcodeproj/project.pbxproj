@@ -13,9 +13,8 @@
 		5D4704AC1D3C6B31009B6ECC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D4704AA1D3C6B31009B6ECC /* Main.storyboard */; };
 		5D4704AE1D3C6B31009B6ECC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5D4704AD1D3C6B31009B6ECC /* Assets.xcassets */; };
 		5D4704B11D3C6B31009B6ECC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D4704AF1D3C6B31009B6ECC /* LaunchScreen.storyboard */; };
-		5D4704BC1D3C6B32009B6ECC /* PickinFruitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4704BB1D3C6B32009B6ECC /* PickinFruitTests.swift */; };
-		5D4704D81D3E8B8D009B6ECC /* ViewControllerSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4704D71D3E8B8D009B6ECC /* ViewControllerSpec.swift */; };
 		5D4704DA1D3EAB0E009B6ECC /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4704D91D3EAB0E009B6ECC /* Constants.swift */; };
+		83F5486F1DB96FDF00B8DB17 /* PickinFruitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4704BB1D3C6B32009B6ECC /* PickinFruitTests.swift */; };
 		DA4BDC339E3E287E4AFB564D /* Pods_PickinFruitTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5BF2C9B18E8D098751387A54 /* Pods_PickinFruitTests.framework */; };
 /* End PBXBuildFile section */
 
@@ -357,8 +356,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5D4704BC1D3C6B32009B6ECC /* PickinFruitTests.swift in Sources */,
-				5D4704D81D3E8B8D009B6ECC /* ViewControllerSpec.swift in Sources */,
+				83F5486F1DB96FDF00B8DB17 /* PickinFruitTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
